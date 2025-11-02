@@ -1,0 +1,6 @@
+{"url":"https://cineb.gg/country/IN","pageSize":"0.16 MB","estimatedCO2":"0.13 g per visit","date":"11/3/2025, 12:27:18 AM"}
+{"url":"https://www.netflix.com/bd/","pageSize":"2.92 MB","estimatedCO2":"2.27 g per visit","date":"11/3/2025, 12:28:06 AM"}
+{"url":"https://www.netflix.com/bd/","pageSize":"2.92 MB","estimatedCO2":"2.27 g per visit","date":"11/3/2025, 12:28:49 AM"}
+{"url":"https://apps.apple.com/gb/app/daraz-online-shopping-app/id978058048","pageSize":"0.67 MB","estimatedCO2":"0.52 g per visit","date":"11/3/2025, 12:28:59 AM"}
+{"url":"https://www.google.com/","pageSize":"0.02 MB","estimatedCO2":"0.01 g per visit","date":"11/3/2025, 12:30:14 AM"}
+{"url":"https://www.amazon.com/","pageSize":"0.20 MB","estimatedCO2":"0.16 g per visit","date":"11/3/2025, 12:30:44 AM"}
