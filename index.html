@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Carbon Footprint Checker</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>🌿 Website Carbon Footprint Checker</h1>
+
+    <input id="urlInput" type="text" placeholder="Enter website URL (e.g. https://example.com)" />
+    <button onclick="analyzeSite()">Analyze</button>
+
+    <div id="result"></div>
+
+    <h2>📊 CO₂ Emissions Chart</h2>
+    <canvas id="carbonChart" width="400" height="200"></canvas>
+
+    <h2>📜 Previous Analyses</h2>
+    <ul id="history"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
